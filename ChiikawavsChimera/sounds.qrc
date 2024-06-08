@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/bgm">
+        <file>sounds/gameBGM.MP3</file>
+        <file>sounds/winBGM.mp3</file>
+    </qresource>
+    <qresource prefix="/sfx">
+        <file>sounds/effcet_sfx_playershoot.ogg</file>
+        <file>sounds/effcet_ui_button.ogg</file>
+        <file>sounds/effcet_sfx_levelup.ogg</file>
+        <file>sounds/bigSFX.MP3</file>
+        <file>sounds/bubbleSFX.MP3</file>
+        <file>sounds/chimeraSFX.MP3</file>
+        <file>sounds/bossSFX.ogg</file>
+        <file>sounds/usagiHurtSFX.MP3</file>
+        <file>sounds/usagiHurtSFX0.MP3</file>
+    </qresource>
+</RCC>
